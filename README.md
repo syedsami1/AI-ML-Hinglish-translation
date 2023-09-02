@@ -1,6 +1,6 @@
-# AI/ML Assignment 3 - Translation Task
+# AI/ML - Translation Task
 
-Welcome to the AI ML Assignment 3 - Translation Task repository! This task is part of AI/ML assignment and focuses on translating English text into Hinglish, ensuring that the translation is both natural and easily understandable for non-native Hindi speakers. Additionally, specific English words and phrases will be selectively translated into Hinglish.
+Welcome to the AI ML - Translation Task repository! This task is part of AI/ML assignment and focuses on translating English text into Hinglish, ensuring that the translation is both natural and easily understandable for non-native Hindi speakers. Additionally, specific English words and phrases will be selectively translated into Hinglish.
 
 ## Project Structure
 
